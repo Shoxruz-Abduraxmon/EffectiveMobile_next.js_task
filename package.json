@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^10.3.9",
+    "@nestjs/typeorm": "^10.0.2",
+    "create-next-app": "^14.2.3"
+  },
+  "name": "next.js_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
